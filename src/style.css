@@ -12,7 +12,7 @@
     }
     .main {
       /* 이하 필수 설정 */
-      position: absolute; left: 50%; top: 30%; 
+      position: absolute; left: 50%; top: 40%; 
       transform: translate(-50%, -50%); text-align: center;
       display: inline;
       /* 이하 꾸밈 설정 */
@@ -26,6 +26,7 @@
       height: 1px;
       background-color: white;
       position: relative;
+      text-align: center;
     }
     .main .circle {
       display: inline-block;
